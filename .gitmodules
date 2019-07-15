@@ -7,3 +7,6 @@
 [submodule "assignment6-inclass"]
 	path = assignment6-inclass
 	url = git@github.com:johngillen/assignment6-inclass.git
+[submodule "assignment3-weekend"]
+	path = assignment3-weekend
+	url = git@github.com:johngillen/assignment3-weekend.git
