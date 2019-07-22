@@ -10,3 +10,6 @@
 [submodule "assignment3-weekend"]
 	path = assignment3-weekend
 	url = git@github.com:johngillen/assignment3-weekend.git
+[submodule "assignment4-weekend"]
+	path = assignment4-weekend
+	url = git@github.com:johngillen/assignment4-weekend.git
